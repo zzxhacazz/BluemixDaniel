@@ -1,0 +1,10 @@
+C:\MyWebApi\bin\Debug\netcoreapp2.0\MyWebApi.deps.json
+C:\MyWebApi\bin\Debug\netcoreapp2.0\MyWebApi.runtimeconfig.json
+C:\MyWebApi\bin\Debug\netcoreapp2.0\MyWebApi.runtimeconfig.dev.json
+C:\MyWebApi\bin\Debug\netcoreapp2.0\MyWebApi.dll
+C:\MyWebApi\bin\Debug\netcoreapp2.0\MyWebApi.pdb
+C:\MyWebApi\obj\Debug\netcoreapp2.0\MyWebApi.csproj.CoreCompileInputs.cache
+C:\MyWebApi\obj\Debug\netcoreapp2.0\MyWebApi.AssemblyInfoInputs.cache
+C:\MyWebApi\obj\Debug\netcoreapp2.0\MyWebApi.AssemblyInfo.cs
+C:\MyWebApi\obj\Debug\netcoreapp2.0\MyWebApi.dll
+C:\MyWebApi\obj\Debug\netcoreapp2.0\MyWebApi.pdb
